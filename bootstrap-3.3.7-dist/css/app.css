@@ -1,0 +1,21 @@
+.rs-control .rs-range-color {
+    background-color: #54bbe0;
+}
+.rs-control .rs-path-color {
+    background-color: #ffffff;
+}
+.rs-control .rs-handle:after {
+    background-color: #002646;
+}
+.rs-control .rs-bg-color {
+    background-color: #ffffff;
+}
+
+.rs-control span{
+	color:#000000;
+}
+
+table tr td {color:#000000;}
+
+.row {background-color: #ffffff !important;}
+body, html {background-color: #ffffff !important;}
